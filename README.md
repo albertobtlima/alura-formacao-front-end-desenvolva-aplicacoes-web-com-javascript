@@ -18,4 +18,4 @@ Carga Horária: 06h
 Projeto desenvolvido durante o curso: Jogo Número Secreto
 
 
-Acesse o jogo [aqui]()
+Acesse o jogo [aqui](https://jogo-numero-secreto-six-mu.vercel.app/)
