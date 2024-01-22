@@ -16,4 +16,6 @@ Projeto extra da formação
 ### JavaScript: validações e reconhecimento de voz
 Carga Horária: 06h
 Projeto desenvolvido durante o curso: Jogo Número Secreto
-Acesse o jogo aqui <a href=""></a>
+
+
+Acesse o jogo [aqui]()
