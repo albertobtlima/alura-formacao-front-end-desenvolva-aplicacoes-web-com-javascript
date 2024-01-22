@@ -12,3 +12,7 @@ Carga Horária: 06h
 Carga Horária: 08h
 
 ### Dark Mode: um projeto em HTML/CSS
+Projeto extra da formação
+
+### JavaScript: validações e reconhecimento de voz
+Carga Horária: 06h
