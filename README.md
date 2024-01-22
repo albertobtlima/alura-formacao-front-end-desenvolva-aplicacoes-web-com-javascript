@@ -1,4 +1,4 @@
-# Formação: Front end JavaScript
+# Formação: Front-end JavaScript
 ## Desenvolva aplicações Web com JavaScript
 
 ### JavaScript para Web: Crie páginas dinâmicas
