@@ -3,6 +3,8 @@
 ### Curso de JavaScript da Alura
 **Carga Horária: 6hs**
 
+Neste curso foi desenvolvido o jogo Número Secreto onde, o jogar deve através de comando de voz acertar o número secreto que é sorteado aleatoriamente.  
+
 ### Temas abordados durante o curso
 * Descubra como aplicar validações em seus projeto com JavaScript
 * Crie um projeto com HTML, CSS e JavaScript do zero
@@ -16,5 +18,3 @@
 * Definindo a voz com Web Speech
 * Criando a lógica do jogo
 * Publicando e compartilhando
-
-
