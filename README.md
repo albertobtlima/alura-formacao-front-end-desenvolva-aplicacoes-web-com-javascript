@@ -8,7 +8,7 @@ Projeto desenvolvido durante o curso: Alura MIDI
 
 O Alura MIDI é um instrumento musical de interface digitial (MIDI), que reproduz sons de instrumentos musicais, ao usuário clicar ou pressionar com teclado em seus botões.
 
-Acesse: 
+Acesse: [aqui](https://alura-midi-seven-henna.vercel.app/)
 
 ---
 
