@@ -38,7 +38,7 @@ Carga Horária: 6h
 
 Projeto desenvolvido durante o curso: Jogo Número Secreto
 
-Projeto de validação e reconhecimento de voz, desenvolvido com HTML, CSS e JavaScript, consiste de um jogo onde o usuário deve usar comandos de voz para acertar um número aleatório sorteado pelo computador.
+Projeto de validação e reconhecimento de voz, **Jogo Número Secreto**, desenvolvido com HTML, CSS e JavaScript, consiste de um jogo onde o usuário deve usar comandos de voz para acertar um número aleatório sorteado pelo computador.
 
 Acesse o jogo [aqui](https://jogo-numero-secreto-six-mu.vercel.app/)
 
@@ -46,3 +46,9 @@ Acesse o jogo [aqui](https://jogo-numero-secreto-six-mu.vercel.app/)
 
 ### JavaScript: consumindo e tratando dados de uma API
 Carga Horária: 6h
+
+---
+
+### JavaScript: métodos de array
+
+Carga Horária: 8h
