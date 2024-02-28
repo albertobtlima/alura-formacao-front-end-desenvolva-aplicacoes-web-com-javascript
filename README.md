@@ -1,5 +1,11 @@
-# Formação: Front-end JavaScript
+# Formação: Front-end 
 ### Desenvolva aplicações Web com JavaScript
+
+**Carga Horária**: 63h
+
+**Cursos**: 8
+
+---
 
 ### JavaScript para Web: Crie páginas dinâmicas
 Carga Horária: 10h
