@@ -53,8 +53,17 @@ Acesse o jogo [aqui](https://jogo-numero-secreto-six-mu.vercel.app/)
 ### JavaScript: consumindo e tratando dados de uma API
 Carga Horária: 6h
 
+Projeto desenvolvido durante o curso: **VidFlow**
+
+O projeto reproduz uma página semelhante ao YouTube onde exibe uma lista de videos. O usuário pode filtrar os videos através de botões de categoria ou usar a barra de buscas. 
+
+Os videos são carregados a partir de uma API.
+
 ---
 
 ### JavaScript: métodos de array
 
 Carga Horária: 8h
+
+projeto base para o curso: **AluraBooks**
+
