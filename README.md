@@ -1,9 +1,9 @@
 # Formação: Front-end 
 ### Desenvolva aplicações Web com JavaScript
 
-**Carga Horária**: 63h
+**Carga Horária Total**: 63h
 
-**Cursos**: 8
+**Total de Cursos**: 8
 
 ---
 
