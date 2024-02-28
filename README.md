@@ -67,3 +67,27 @@ Carga Horária: 8h
 
 projeto base para o curso: **AluraBooks**
 
+---
+
+### JavaScript: criando requisições
+
+**Carga Horária**: 8h
+
+**Tópicos**:
+
+* Saiba como mockar uma API
+* Realize requisições GET para retornar dados de uma API
+* Construa requisições POST para cadastrar dados em uma API
+* Reforce seus conhecimentos em javascript assíncrono
+* Trate possíveis erros de requisição retornados da API
+* Aprenda a transformar uma página estática em dinâmica
+
+**Aulas**:
+
+* Simulando uma API
+* Exibindo elementos
+* Criando novos elementos
+* Buscando elementos
+* Lidando com erros
+
+---
