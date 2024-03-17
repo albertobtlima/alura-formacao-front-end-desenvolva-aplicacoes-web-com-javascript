@@ -100,3 +100,24 @@ projeto base para o curso: **AluraBooks**
 * CSS
 
 ---
+
+### JavaScript: validando formulários
+
+**Carga Horária**: 8h
+
+**Tópicos**:
+
+* Saiba como aplicar atributos de validação de formulário com HTML5
+* Construa validações para os dígitos verificadores do CPF
+* Implemente validações de maioridade a partir da comparação de datas
+* Customize mensagens de erro para cada tipo de campo do formulário
+* Integre a webcam do usuário em uma tela do navegador
+* Capture fotos via webcam
+* Salve e edite dados salvos no navegador
+
+**Aulas**:
+
+* Validadando com HTML
+* Desenvolvendo validações 
+* Comunicando ao usuário 
+* Capturando fotos
