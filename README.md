@@ -5,6 +5,13 @@
 
 **Total de Cursos**: 8
 
+**Tecnologias utilizadas durante o curso**
+* HTML
+* CSS
+* Javascript
+* NodeJS
+* Json-server
+
 ---
 
 ### JavaScript para Web: Crie páginas dinâmicas
